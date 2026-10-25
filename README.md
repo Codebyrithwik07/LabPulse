@@ -367,3 +367,5 @@ Follow this complete step-by-step test lifecycle:
    - **Equipment Ranked by Failure Frequency**: Window function ranking showing Rank #1 (`Haas Mini Mill`), Rank #2 (`Tektronix Oscilloscope`), etc.
    - **Equipment Total Downtime Ledger**: CTE aggregating cumulative and average downtime hours per incident.
    - **Recurring Laboratory Fault Patterns**: Identified failure symptoms grouped across categories.
+#   L a b P u l s e  
+ 
